@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1634173814 source:c:\users\mohalk\documents\codeblocks\trab_redesi_\main.cpp
+	<iostream>
+	<string>
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+
